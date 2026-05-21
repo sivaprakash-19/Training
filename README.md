@@ -1,9 +1,5 @@
 # Reva_Python_May_2026
 
-# Batch No - 5
+Batch No - 5
 
-# Date - 21-May-2026 to 26-May-2026
-
-# Agenda of the Training 
-
-Getting familiar with problem solving in Python and learning packages and modules. 
+Date - 21-May-2026 to 26-May-2026
